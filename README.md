@@ -33,14 +33,14 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/verilog.png" title="Verilog" />
+<img height="50" width="50" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-chip-technology-flat-icons-inmotus-design.png" title="Verilog / HDL" />
 
 ---
 
 ### 🔧 Tools & IDEs
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/unity.png" title="Unity Engine" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/keil.png" title="Keil uVision" />
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Keil_logo.png" title="Keil uVision" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/blender-3d.png" title="Blender" />
 
 ---
